@@ -14,10 +14,10 @@ I love coding in Java, Kotlin and contribute on open source projects.
 | --- | --- | 
 
 ### How to reach me
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/m_omidtaheri)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/m_omidtaheri)
+<!-- [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/m_omidtaheri)
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/m_omidtaheri) -->
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/m_omidtaheri)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/omid-taheri/)
-[<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="32">](https://omidtaheri.ir)
+<!-- [<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="32">](https://omidtaheri.ir) -->
 
 
