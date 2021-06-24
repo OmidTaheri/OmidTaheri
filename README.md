@@ -6,7 +6,7 @@ I love coding in Java, Kotlin and contribute on open source projects.
 
 ### Resume
 
-* <a href="http://omidtaheri.ir/wp-content/uploads/2020/05/MyResume.pdf">Download Resume</a>
+* <a href="https://drive.google.com/file/d/18nYrcwcX3N5C554wJZJuZFg6W48HwaTK/view?usp=sharing">Download Resume</a>
 
 
 
