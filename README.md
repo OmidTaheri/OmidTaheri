@@ -6,7 +6,7 @@ I love coding in Java, Kotlin and contribute on open source projects.
 
 ### Resume
 
-* <a href="https://drive.google.com/file/d/10JxNAkRmws0DHF7b8AcFHSHXUhnJlLIj/view?usp=sharing">Download Resume</a>
+* <a href="https://drive.google.com/file/d/1yaIZwp7XvueROB8rUqahe_9IEB6kltJF/view?usp=sharing">Download Resume</a>
 
 
 
