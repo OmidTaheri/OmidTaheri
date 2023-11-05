@@ -10,7 +10,7 @@ I love coding in Java, Kotlin and contribute on open source projects.
 
 
 
-| [![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=omidtaheri&count_private=true&show_icons=true&theme=dracula)](https://github.com/OmidTaheri) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omidtaheri&count_private=true&show_icons=true&hide=css,html,c%23&theme=dracula&layout=compact)](https://github.com/OmidTaheri) | 
+| [![Omid's GitHub stats](https://github-readme-stats-omids-projects-5cc6a8f5.vercel.app/api?username=omidtaheri&count_private=true&show_icons=true&theme=dracula)](https://github.com/OmidTaheri) | [![Top Langs](https://github-readme-stats-omids-projects-5cc6a8f5.vercel.app/api/top-langs?username=omidtaheri&count_private=true&show_icons=true&hide=css,html,c%23&theme=dracula&layout=compact)](https://github.com/OmidTaheri) | 
 | --- | --- | 
 
 ### How to reach me
