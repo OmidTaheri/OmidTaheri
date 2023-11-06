@@ -1,6 +1,5 @@
 ### Hi, I'm Omid 👋
-I’m an android developer since 2014.<br>
-I love coding in Java, Kotlin and contribute on open source projects.
+I'm an android developer who loves making mobile apps, enjoys coding in Java and Kotlin, and contributes to open source projects.
 - 💬 Ask me about Java, Kotlin, Android development. 
 - 📥 Email : m.omidtaheri@gmail.com
 
