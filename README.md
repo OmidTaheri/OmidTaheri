@@ -5,7 +5,7 @@ I'm an android developer who loves making mobile apps, enjoys coding in Java and
 
 ### Resume
 
-* <a href="https://drive.google.com/file/d/1dyBPNQCOFw-0vcjb7gT318iyDYGiGkrt/view?usp=sharing">Download Resume</a>
+* <a href="https://drive.google.com/file/d/17pErsyJ9KRMStuPRPX7rqQAYbtd0ByOI/view?usp=sharing">Download Resume</a>
 
 
 
