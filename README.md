@@ -8,10 +8,10 @@ I'm an android developer who loves making mobile apps, enjoys coding in Java and
 * <a href="https://drive.google.com/file/d/17pErsyJ9KRMStuPRPX7rqQAYbtd0ByOI/view?usp=sharing">Download Resume</a>
 
 
-| [![Omid's GitHub stats](https://github-readme-stats-a312y5vk4-projects-5cc6a8f5.vercel.app/api?username=omidtaheri&count_private=true&show_icons=true&theme=dracula)](https://github.com/OmidTaheri) | [![Top Langs](https://github-readme-stats-a312y5vk4-projects-5cc6a8f5.vercel.app/api/top-langs?username=omidtaheri&count_private=true&show_icons=true&hide=css,html,c%23&theme=dracula&layout=compact)](https://github.com/OmidTaheri) | 
+| [![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=omidtaheri&count_private=true&show_icons=true&theme=dracula)](https://github.com/OmidTaheri) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omidtaheri&count_private=true&show_icons=true&hide=css,html,c%23&theme=dracula&layout=compact)](https://github.com/OmidTaheri) | 
 | --- | --- | 
 
-[![Readme Card](https://github-readme-stats-a312y5vk4-projects-5cc6a8f5.vercel.app/api/pin/?username=omidtaheri&repo=AndroidDockerImage)](https://github.com/OmidTaheri/AndroidDockerImage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omidtaheri&repo=AndroidDockerImage)](https://github.com/OmidTaheri/AndroidDockerImage)
 
 
 ### How to reach me
